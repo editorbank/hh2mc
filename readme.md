@@ -1,4 +1,4 @@
-# hh2mc
+# hh2mc (Http Headers to MemCached)
 
 Адаптер для проксирования запросов из HTTP-заголовков в формат memcached.
 
